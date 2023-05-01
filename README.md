@@ -1,1 +1,1 @@
-# This is the persona website of MS. Ye Ying.
+# This is the personal website of MS. Ye Ying.
